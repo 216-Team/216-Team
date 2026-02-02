@@ -40,7 +40,15 @@
 
 ###
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBzd2xta2h1MXNkNWRqbjhueXdrb2R2cTlvbWZqZDZmdjVpNHB4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Snake animation" />
+<div align="center">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBzd2xta2h1MXNkNWRqbjhueXdrb2R2cTlvbWZqZDZmdjVpNHB4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif"
+    width="100%"
+    height="120"
+    style="object-fit: cover;"
+  />
+</div>
+
 
 ###
 
