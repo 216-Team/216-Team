@@ -43,8 +43,8 @@
 <div align="center">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQyMXNoeHJuYmJwZ3dnMW83bmZpcXg4Zjg0cDZjYTA5MXJlazJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif"
-    width="100%"
-    height="150px"
+    width="200%"
+    height="200px"
     style="object-fit: cover;"
   />
 </div>
