@@ -2,6 +2,15 @@
 
 ###
 
+<img src="https://capsule-render.vercel.app/api?
+type=waving
+&color=0:1a1a1a,100:ff0000
+&height=200
+&section=header
+&text=B.I.G
+&fontSize=60
+&fontColor=ffffff"
+ />
 
 
 ###
