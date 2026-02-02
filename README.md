@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! My name is B.I.G and I'm a Programmer, from Tunisia 🇹🇳
+  Hey 👋! My name is B.I.G and I'm a Programmer, from Tunisia 🇹🇳
 </h2>
 
 ###
