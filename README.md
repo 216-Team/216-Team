@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/216-Team/216-Team/output/snake.svg" alt="Snake animation" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBzd2xta2h1MXNkNWRqbjhueXdrb2R2cTlvbWZqZDZmdjVpNHB4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Snake animation" />
 
 ###
 
