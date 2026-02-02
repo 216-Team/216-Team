@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpNWhudDBxaDJtdXAwMDFkbTkya29zaDVnMmo1b3Z2aTJodnJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif"  />
 
 ###
 
