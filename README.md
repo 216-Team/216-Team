@@ -68,7 +68,7 @@
 
 ### 📂 Featured Project
 
-[![Kick-Chat-Tool](https://media.discordapp.net/attachments/1412417122956607509/1468061113487724747/image.png?width=250&height=390)](https://github.com/216-Team/Kick-Chat-Tool)
+[![Kick-Chat-Tool](https://media.discordapp.net/attachments/1412417122956607509/1468061113487724747/image.png?ex=6982a5f4&is=69815474&hm=75eca067fcc9f6643868e1c06989928dd69ae425ca74d28eff604302be4df8ed&=&format=webp&quality=lossless&width=384&height=600?width=250&height=390)](https://github.com/216-Team/Kick-Chat-Tool)
 
 **💬 Kick-Chat-Tool**  
 Chat automation tool for Kick.com with emotes, console logs, and auto-messaging features.
