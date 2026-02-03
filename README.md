@@ -64,37 +64,35 @@
 
 ###
 
-<h2 align="left">📂 My Projects</h2>
+###
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<h2 align="left">📂 Featured Project</h2>
 
-  <!-- Project 1 -->
-  <div style="border: 2px solid #ddd; border-radius: 12px; padding: 10px; width: 200px; text-align: center;">
-    <h4>💬 Kick-Chat-Tool</h4>
-    <p>Chat automation tool for Kick.com</p>
-    <a href="https://github.com/216-Team/Kick-Chat-Tool" target="_blank">
-      <img src="https://img.shields.io/badge/View-Repo-blue?style=for-the-badge" height="25" />
-    </a>
-  </div>
+<div align="center" style="margin-top: 10px;">
 
-  <!-- Project 2 -->
-  <div style="border: 2px solid #ddd; border-radius: 12px; padding: 10px; width: 200px; text-align: center;">
-    <h4>🛠 Project2</h4>
-    <p>Short description here</p>
-    <a href="https://github.com/216-Team/Project2" target="_blank">
-      <img src="https://img.shields.io/badge/View-Repo-green?style=for-the-badge" height="25" />
-    </a>
-  </div>
+  <a href="https://github.com/216-Team/Kick-Chat-Tool" target="_blank" style="text-decoration: none;">
+    <div style="border: 2px solid #ddd; border-radius: 15px; overflow: hidden; width: 320px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      
+      <!-- Project image -->
+      <img src="https://media.discordapp.net/attachments/1412417122956607509/1468061113487724747/image.png" 
+           alt="Kick-Chat-Tool" 
+           style="width: 100%; height: auto;" />
 
-  <!-- Project 3 -->
-  <div style="border: 2px solid #ddd; border-radius: 12px; padding: 10px; width: 200px; text-align: center;">
-    <h4>🔧 Project3</h4>
-    <p>Short description here</p>
-    <a href="https://github.com/216-Team/Project3" target="_blank">
-      <img src="https://img.shields.io/badge/View-Repo-red?style=for-the-badge" height="25" />
-    </a>
-  </div>
+      <!-- Project info -->
+      <div style="padding: 12px;">
+        <h3 style="margin: 5px 0;">💬 Kick-Chat-Tool</h3>
+        <p style="font-size: 14px; color: #555; margin: 5px 0;">
+          Chat automation tool for Kick.com with emotes, console logs, and auto-messaging features.
+        </p>
+        
+        <!-- View button -->
+        <img src="https://img.shields.io/badge/View%20Repo-Click-blue?style=for-the-badge" 
+             alt="View Repo" 
+             style="margin-top: 8px;" />
+      </div>
+    </div>
+  </a>
 
-  <!-- Add more projects in the same style -->
 </div>
+
 
