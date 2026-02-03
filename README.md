@@ -13,7 +13,6 @@
 ###
 
 <div align="left">
- 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
@@ -35,8 +34,6 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-
-
   <a href="https://discord.gg/ZTK8DFtybv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
@@ -44,8 +41,6 @@
   <a href="mailto:gatriy142@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-
-
 </div>
 
 ###
@@ -63,4 +58,24 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=216-Team.216-Team" />
+</div>
+
+###
+
+<h2 align="left">📂 My Projects</h2>
+
+<div align="left">
+  <a href="https://github.com/216-Team/Kick-Chat-Tool" target="_blank">
+    <img src="https://img.shields.io/badge/Kick--Chat--Tool-View-blue?style=for-the-badge" height="30" />
+  </a>
+  <a href="https://github.com/216-Team/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-View-green?style=for-the-badge" height="30" />
+  </a>
+  <a href="https://github.com/216-Team/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-View-red?style=for-the-badge" height="30" />
+  </a>
+  <a href="https://github.com/216-Team/Project4" target="_blank">
+    <img src="https://img.shields.io/badge/Project4-View-orange?style=for-the-badge" height="30" />
+  </a>
+  <!-- Add more projects here -->
 </div>
