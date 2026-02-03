@@ -62,20 +62,39 @@
 
 ###
 
+###
+
 <h2 align="left">📂 My Projects</h2>
 
-<div align="left">
-  <a href="https://github.com/216-Team/Kick-Chat-Tool" target="_blank">
-    <img src="https://img.shields.io/badge/Kick--Chat--Tool-View-blue?style=for-the-badge" height="30" />
-  </a>
-  <a href="https://github.com/216-Team/Project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-View-green?style=for-the-badge" height="30" />
-  </a>
-  <a href="https://github.com/216-Team/Project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-View-red?style=for-the-badge" height="30" />
-  </a>
-  <a href="https://github.com/216-Team/Project4" target="_blank">
-    <img src="https://img.shields.io/badge/Project4-View-orange?style=for-the-badge" height="30" />
-  </a>
-  <!-- Add more projects here -->
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+  <!-- Project 1 -->
+  <div style="border: 2px solid #ddd; border-radius: 12px; padding: 10px; width: 200px; text-align: center;">
+    <h4>💬 Kick-Chat-Tool</h4>
+    <p>Chat automation tool for Kick.com</p>
+    <a href="https://github.com/216-Team/Kick-Chat-Tool" target="_blank">
+      <img src="https://img.shields.io/badge/View-Repo-blue?style=for-the-badge" height="25" />
+    </a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="border: 2px solid #ddd; border-radius: 12px; padding: 10px; width: 200px; text-align: center;">
+    <h4>🛠 Project2</h4>
+    <p>Short description here</p>
+    <a href="https://github.com/216-Team/Project2" target="_blank">
+      <img src="https://img.shields.io/badge/View-Repo-green?style=for-the-badge" height="25" />
+    </a>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="border: 2px solid #ddd; border-radius: 12px; padding: 10px; width: 200px; text-align: center;">
+    <h4>🔧 Project3</h4>
+    <p>Short description here</p>
+    <a href="https://github.com/216-Team/Project3" target="_blank">
+      <img src="https://img.shields.io/badge/View-Repo-red?style=for-the-badge" height="25" />
+    </a>
+  </div>
+
+  <!-- Add more projects in the same style -->
 </div>
+
